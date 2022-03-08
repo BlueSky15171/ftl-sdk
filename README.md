@@ -29,7 +29,7 @@ Prerequisites:
 getting the code:
 
 ```
-git clone https://github.com/mixer/ftl-sdk
+git clone https://github.91chi.fun/https://github.com/mixer/ftl-sdk
 cd ftl-sdk
 git submodule update --init
 ```
